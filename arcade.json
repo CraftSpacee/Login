@@ -1,0 +1,27 @@
+﻿{
+	"name": "Login",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "217",
+	"used-plugins": [
+		"Button",
+		"DataMatrix",
+		"Multiplayer",
+		"NinePatch",
+		"Pode_QRDecode",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"filechooser"
+	],
+	"used-behaviors": [
+		"Rotate"
+	]
+}
